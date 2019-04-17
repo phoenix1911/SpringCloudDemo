@@ -1,0 +1,14 @@
+GET http://localhost:8080/product/list
+Accept: */*
+Cache-Control: no-cache
+###
+
+GET http://localhost:8761/
+Accept: */*
+Cache-Control: no-cache
+###
+
+GET http://www.baidu.com/
+Accept: */*
+Cache-Control: no-cache
+###

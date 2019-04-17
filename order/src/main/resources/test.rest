@@ -1,0 +1,14 @@
+GET http://localhost:8761/
+###
+
+GET http://localhost:8080/msg
+###
+
+GET http://localhost:8081/getProductMsg
+###
+
+GET http://localhost:8081/getProductMsg2
+###
+
+GET http://localhost:8081/getProductMsg3
+###
